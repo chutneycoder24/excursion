@@ -1,0 +1,37 @@
+.firstH{
+  Font-family: Verdana;
+  Font-weight: Normal;
+  Font-size: 50px;
+  Color: White;
+  text-align: Center;
+}
+body{
+  background-color: Black;
+  font-family: Verdana;
+  text-align: Center;
+}
+.firstL, .secondL{
+  color: Aquamarine;
+  Font-size: 16px;
+  text-decoration: underline;
+  text-align: Center;
+}
+.firstP{
+  Font-size: 21px;
+  Color: Gray;
+}
+
+.secondH, .thirdH{
+  Font-weight: 300;
+  Font-size: 42px;
+  Color: White;
+}
+footer{
+  display: block;
+  text-align: right;
+  color: gray;
+}
+img{
+  display: block;
+  text-align; center;
+}
